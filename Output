@@ -1,0 +1,76 @@
+# Output
+
+Typescript 1).
+// Script Tester1.cpp
+
+Script started 
+> PgmRun
+
+Adding integers 0 to 9...
+Testing the first entry of the list, which should be 9: 9
+Testing the list length, which should Be 10: 10
+Testing remove, which should remove 8 integers...
+Testing the list length, which should Be 2: 2
+Displaying the list contents of aList, which should display 1 and 0:
+1
+0
+Testing the copy constructor, which creates a copiedList of aList...
+Displaying the list contents of copiedList, which should display 1 and 0:
+1
+0
+Testing clear, which should clear aList...
+Testing the number of items in aList, which should be 0: 0
+FrontList1 Tester1 Complete!
+> ^Dexit
+
+script done
+-----------------------------------------------------------------------------------
+Typescript 2).
+// Script Tester2.cpp
+
+Script started 
+> PgmRun2
+
+Adding integers 0 to 9...
+Testing the first entry of the list, which should be 9: 9
+Testing the list length, which should Be 10: 10
+Testing remove, which should remove 8 integers...
+Testing the list length, which should Be 2: 2
+Displaying the list contents of aList, which should display 1 and 0:
+1
+0
+Testing the copy constructor, which creates a copiedList of aList...
+Displaying the list contents of copiedList, which should display 1 and 0:
+1
+0
+Testing clear, which should clear aList...
+Testing the number of items in aList, which should be 0: 0
+FrontList2 Tester2 Complete!
+> ^Dexit
+
+script done
+-------------------------------------------------------------------------------------
+Typescript 3).
+// Script Tester3.cpp
+
+Script started 
+> PgmRun3
+
+Adding integers 0 to 9...
+Testing the first entry of the list, which should be 9: 9
+Testing the list length, which should Be 10: 10
+Testing remove, which should remove 8 integers...
+Testing the list length, which should Be 2: 2
+Displaying the list contents of aList, which should display 1 and 0:
+1
+0
+Testing the copy constructor, which creates a copiedList of aList...
+Displaying the list contents of copiedList, which should display 1 and 0:
+1
+0
+Testing clear, which should clear aList...
+Testing the number of items in aList, which should be 0: 0
+FrontList3 Tester3 Complete!
+> ^Dexit
+
+script done
