@@ -10,5 +10,3 @@ Consider an ADT FrontList, which restricts insertions, removals, and retrievals 
 
 Write a tester for each FrontList class you defined by following the programs that test sorted list class on D2L.  Compile the tester program using g++ tester.cpp Please make sure all header files include their corresponding implementation files.
 
-Summary:
-This program uses a linked list of integers that tests the specification members of the specified FrontList class.  
